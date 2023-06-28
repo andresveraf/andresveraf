@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Andrés Vera a business administrator and data scientist with more than 10 years of work experience in commercial management, analytics and customer service quality. Focused on managing a differentiated experience through the optimization of KPIs, reduction of KRIs, and leadership of work teams.
 
+
+- My [LinkedIn](https://www.linkedin.com/in/andresveraf/)
+
 <!--
 **andresveraf/andresveraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

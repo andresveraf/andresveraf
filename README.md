@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Andrés Vera a business administrator and data scientist 
-
+### Hi there 👋 I'm Andrés Vera a Data Scientist currently focusing on business analytics(BA)
 
 
 ## 🔎 Where can you find me
